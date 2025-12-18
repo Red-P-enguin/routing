@@ -1,0 +1,10 @@
+{
+  "name": "routing-Editor",
+  "references": [
+    "routing"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
